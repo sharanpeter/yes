@@ -2,5 +2,5 @@
 master
 extra features
 blah blah blah
-new features
-<a link="yo">hello</a>
+new features <br/>
+<a href="google.com">hello</a>
